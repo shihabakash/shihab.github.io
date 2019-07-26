@@ -1,0 +1,221 @@
+body
+{
+	background-color: #ffffff;
+}
+.header
+{
+	background-color: #e0f2f1;
+	margin-bottom: 80px;
+}
+.header h1
+{
+	color: 	rgb(255, 26, 26);
+	font-family: sans-serif;
+	text-transform: uppercase;
+	font-weight: 200;
+	margin-top: 40px;
+	padding-left: 20px;
+	float: left;
+	width: 80%;
+}
+.name 
+{
+	padding-top: 100px;
+	text-transform: uppercase;
+	font-family: sans-serif;
+}
+.name h4
+{
+	text-align:center;
+	font-size: 20px;
+	color: 	rgb(255, 26, 26);
+}
+.name h1
+{
+	text-align:center;
+	font-size: 50px;
+	border: 2px solid white;
+	text-decoration: none;
+	color: 	rgb(255, 26, 26);
+}
+.family
+{
+	font-family: sans-serif;
+	color:	rgb(255, 26, 26);
+	padding-left: 20px;
+	padding-top: 80px;
+
+}
+.family h1
+{
+	text-align: center;
+	text-transform: uppercase;
+	font-size: 28px;
+	color: 		rgb(255, 26, 26);	
+}
+.family h3
+{
+    text-align: left;
+	text-transform: uppercase;
+	color: 		rgb(0, 230, 119);
+}
+table 
+{
+	margin-top: 80px;
+	text-align: center;
+	border: 2px solid #ff0066;
+	font-size: 22px;
+}
+table tr th
+{
+	font-family: sans-serif;
+	font-size: 16px;
+	color: 	#f20d0d;
+}
+table tr td
+{
+	color: 	rgb(0, 64, 255);
+}
+.story
+{
+	font-family: sans-serif;
+	color: 	rgb(255, 26, 26);
+	padding-left: 20px;
+	padding-top: 80px;
+
+}
+.story h1
+{
+	text-align: center;
+	text-transform: uppercase;
+	font-size: 28px;
+	color:	rgb(255, 26, 26);	
+}
+.story h3
+{
+    text-align: left;
+	text-transform: uppercase;
+	color: 		rgb(0, 230, 119);
+}
+.plan h1
+{
+	text-align: center;
+	text-transform: uppercase;
+	font-size: 28px;
+	color: 		rgb(255, 26, 26);
+	font-family: sans-serif;	
+}
+.plan h3
+{
+    text-align: left;
+	text-transform: uppercase;
+	color: 		rgb(0, 230, 119);
+	font-family: sans-serif;
+}
+.second
+{
+	padding-top: 40px;
+	text-align: center;
+}
+.second a
+{
+	font-size: 22px;
+	font-family: sans-serif;
+	color: rgb(0, 153, 255);
+	text-decoration: none;
+	border: 3px solid white;
+}
+.hometown
+{
+    padding-top: 40px;
+}    
+.hometown h1
+{   
+	color: #ff4d4d;
+	text-transform: uppercase;
+	text-decoration: underline;
+	font-size: 22px;
+	font-family: sans-serif;
+	padding-left: 20px;
+}
+.hometown h3
+{
+	color: #ff4d4d;
+	font-size: 22px;
+	font-family: sans-serif;
+	padding-left: 20px;
+}
+.hobbies
+{
+	margin-top: 50px;
+}
+.hobbies h1
+{
+	text-align: center;
+	color: #47D11B;
+	text-transform: uppercase;
+	text-decoration: underline;
+	font-family: sans-serif;
+	font-size: 22px;
+	padding-left: 20px;
+
+}
+.hobbies ul
+{
+	margin: 0;
+	padding: 0;
+	display: flex;
+	flex-direction: column-reverse;
+
+}
+.hobbies ul li 
+{
+	flex: 1;
+
+	list-style: none;
+	margin: 20px 20px;
+	text-align: center;
+	display: block;
+	padding: 10px;
+	font-family: sans-serif;
+	color: #47D11B;
+	text-transform: uppercase;
+	font-size: 22px;
+	border: 2px solid white;
+}
+.favourite
+{
+	text-align: center;
+	font-family: sans-serif;
+	padding-top: 60px;
+}
+.favourite h1
+{
+	font-size: 22px;
+	color: #47D11B;
+	text-transform: uppercase;
+	text-decoration: underline;
+}
+.favourite h3
+{
+	
+	padding-top:30px;
+	font-size: 18px;
+	color: white;
+	text-transform: uppercase;
+
+}
+.first
+{
+	padding-top: 40px;
+	text-align: center;
+}
+.first a
+{
+	font-size: 22px;
+	font-family: sans-serif;
+	color: #47D11B;
+	text-decoration: none;
+	border: 2px solid white;
+}
+
